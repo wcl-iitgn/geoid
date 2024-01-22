@@ -1,0 +1,1 @@
+# Geoportal of Indian Dams (GeoID) is the database of more than 5400 dams across India, including their catchment characteristics, Land Use and Land Cover analysis, and flood risk assessment.
